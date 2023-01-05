@@ -2,7 +2,7 @@
 
 ## Contact with Administration (Contact)
 
-<img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/main.png?token=GHSAT0AAAAAAB4BEINDX4PWVMUD4KM7PTBOY5WG2WQ"></img>
+<img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/main.png"></img>
 
 </div>
 
@@ -68,15 +68,15 @@ amxx4u_contact_discord "https://discord.amxx4u.pl/"
 
 - MOTD
 
-  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/motd.png?token=GHSAT0AAAAAAB4BEINCGBB2AWWV2FXVTZMSY5WGYUA"></img>
+  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/motd.png"></img>
 
 - Console
 
-  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/console.png?token=GHSAT0AAAAAAB4BEINDAN3JNMJTZBZDDOGEY5WGZKQ"></img>
+  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/console.png"></img>
 
 - Chat
 
-  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/chat.png?token=GHSAT0AAAAAAB4BEINDK24CWRZ55FOOBOSIY5WGZZA"></img>
+  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/chat.png"></img>
 </details>
 
 ### Requirements 
