@@ -80,7 +80,7 @@ amxx4u_contact_ts3 "ts3.katujemy.eu"
 
 - MOTD
 
-  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/motd.png"></img>
+  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/motd_v2.png"></img>
 
 - Menu
 
@@ -88,11 +88,11 @@ amxx4u_contact_ts3 "ts3.katujemy.eu"
 
 - Console
 
-  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/console.png"></img>
+  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/console_v2.png"></img>
 
 - Chat
 
-  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/chat.png"></img>
+  <img src="https://raw.githubusercontent.com/AMXX4u/contact-admin/main/assets/chat_v2.png"></img>
 </details>
 
 ### Requirements 
